@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-coding-playground/static/css/main.d0810741.css",
+    "main.js": "/my-coding-playground/static/js/main.16b8d71f.js",
+    "static/js/592.71bc5cad.chunk.js": "/my-coding-playground/static/js/592.71bc5cad.chunk.js",
+    "index.html": "/my-coding-playground/index.html",
+    "main.d0810741.css.map": "/my-coding-playground/static/css/main.d0810741.css.map",
+    "main.16b8d71f.js.map": "/my-coding-playground/static/js/main.16b8d71f.js.map",
+    "592.71bc5cad.chunk.js.map": "/my-coding-playground/static/js/592.71bc5cad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0810741.css",
+    "static/js/main.16b8d71f.js"
+  ]
+}
